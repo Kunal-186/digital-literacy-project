@@ -1,19 +1,29 @@
 ## Case Study: UPI Payment Fraud
 
-UPI payment fraud has become one of the most common cybercrimes in India,
-especially with the rapid increase in digital payments. It mainly occurs
-when users are tricked into approving a payment instead of receiving money.
+## Case Study: UPI Payment Fraud
 
-A common real-life scenario involves online marketplaces. In many reported
-cases, fraudsters pretend to be buyers and contact sellers. They agree to
-purchase an item and say they will “send money” using UPI. Instead of
-sending money, they generate a “collect request” and ask the seller to
-approve it. The victim, believing they are receiving money, enters their
-UPI PIN and unknowingly transfers money to the scammer.
+UPI payment fraud is one of the fastest-growing cybercrimes in India,
+mainly due to the widespread use of digital payment apps. It occurs
+when a person is tricked into authorizing a payment that transfers
+money from their account to a fraudster.
 
-This type of fraud usually targets students, small sellers, and elderly
-people who may not fully understand how UPI requests work. The fraudster
-often creates urgency or uses convincing language to gain trust quickly.
+A common scenario begins when a scammer contacts the victim through
+a phone call, SMS, or an online marketplace. The fraudster often
+pretends to be a genuine buyer, bank official, or customer support
+representative. They build trust by speaking confidently and may
+even use official-looking language or profile pictures.
+
+The scam usually follows a clear pattern. First, the fraudster creates
+a sense of urgency, such as claiming that a payment must be processed
+immediately or that there is an issue with the victim’s account. Next,
+they send a “collect request” through a UPI app and instruct the victim
+to approve it in order to receive money. However, this is misleading,
+because entering a UPI PIN actually authorizes a payment. Once the
+victim enters the PIN, money is instantly transferred to the fraudster.
+
+This type of fraud commonly targets students, small online sellers,
+and elderly individuals who may not fully understand how UPI requests
+work.
 
 The consequences can be serious. Victims may lose money instantly, and in
 many cases, recovery becomes difficult. It can also cause stress and loss
