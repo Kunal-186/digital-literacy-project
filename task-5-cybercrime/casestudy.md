@@ -1,6 +1,5 @@
 ## Case Study: UPI Payment Fraud
 
-## Case Study: UPI Payment Fraud
 
 UPI payment fraud is one of the fastest-growing cybercrimes in India,
 mainly due to the widespread use of digital payment apps. It occurs
